@@ -74,7 +74,5 @@ function Gamestart() {
             if(dx*dx+dy*dy<=(circle.r*circle.r)) {
                 //alert("Hi3");
             };
-        
     }
-    
 }
